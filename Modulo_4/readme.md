@@ -3,4 +3,4 @@
 ### En este relacionamos distintos conflictos globales actuales con la industria oleícola.
 Para esto, primero buscamos distintos informes que tuviesen datos útiles para armar el informe. Luego, usando herramientas de distintas inteligencias artificiales armamos un archivo json recopilando los datos útiles (en general cuantitativos) de los informes leídos. Con este archivo json armamos el primer informe, el cuál revisamos y modificamos para obtener la versión final.
 ## 📄 Ver artículo publicado
-[Hacer clic aquí para ver el artículo completo]()
+[Hacer clic aquí para ver el artículo completo](articulo_oliva_mendoza_distill.html)
